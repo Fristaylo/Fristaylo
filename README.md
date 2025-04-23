@@ -10,4 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fristaylo&show_icons=true&theme=onedark&locale=en" alt="fristaylo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fristaylo&theme=dark" alt="fristaylo" /></p>
