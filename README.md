@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Beginner frontend developer and designer from Russia</h3>
 
-- 👨‍💻 All of my projects are available at [andreybondarev.com](andreybondarev.com)
+- 👨‍💻 All of my projects are available at [andreybondarev.com](andrey-bondarev.com)
 
 - 📫 How to reach me **andru_2004@mail.ru**
 
