@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fristaylo 👋</h1>
 
 <p align="center">
-  21 y.o. frontend and designer developer from Russia<br>
+  20 y.o. frontend and designer developer from Russia<br>
 </p>
 
 ---
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fristaylo&label=Profile%20views&color=0e75b6&style=flat" alt="Oskar6656" />
+  <img src="https://komarev.com/ghpvc/?username=Fristaylo&label=Profile%20views&color=0e75b6&style=flat" alt="Fristaylo" />
 </p>
