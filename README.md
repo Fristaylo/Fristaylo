@@ -1,12 +1,53 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">Beginner frontend developer and designer from Russia</h3>
+<h1 align="center">Hi, I'm Fristaylo 👋</h1>
 
-- 👨‍💻 All of my projects are available at [andrey-bondarev.com](andrey-bondarev.com)
+<p align="center">
+  21 y.o. frontend and designer developer from Russia<br>
+</p>
 
-- 📫 How to reach me **andru_2004@mail.ru**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fristaylo&show_icons=true&theme=onedark&locale=en" alt="fristaylo" /></p>
+- My main programming language is **Python**
+- I use **MySQL** as my main database
+- I have **basic knowledge of HTML/CSS**
+- I'm experienced in building **Discord bots with Disnake**
+- Some experience writing **desktop apps with Python**
+- Familiar with **Nginx** configuration
+- Confident working with **Ubuntu Linux environments**
 
+---
+
+## Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oskar6656&show_icons=true&hide_border=true&count_private=true&theme=react&bg_color=30,0d1117,1f1f1f&title_color=58a6ff&icon_color=58a6ff" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar6656&layout=compact&hide_border=true&theme=react&bg_color=30,1f1f1f,0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" />
+</p>
+
+
+---
+
+## Contact
+
+- Telegram: [Caederesui](https://t.me/Caederesui)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oskar6656&label=Profile%20views&color=0e75b6&style=flat" alt="Oskar6656" />
+</p>
