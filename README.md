@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oskar6656&label=Profile%20views&color=0e75b6&style=flat" alt="Oskar6656" />
+  <img src="https://komarev.com/ghpvc/?username=Fristaylo&label=Profile%20views&color=0e75b6&style=flat" alt="Oskar6656" />
 </p>
