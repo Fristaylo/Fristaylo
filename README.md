@@ -40,6 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fristaylo&layout=compact&hide_border=true&theme=react&bg_color=30,1f1f1f,0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" />
 </p>
 
+## 💻 Языки, в которых я коммитил (в т.ч. чужие репозитории)
+
+[![My Languages](https://github.com/Fristaylo/Fristaylo/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+
 
 ---
 
